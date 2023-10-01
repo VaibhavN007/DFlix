@@ -1,0 +1,7 @@
+node_modules/*
+.env
+npm-debug.log
+.info
+notes.txt
+build/
+package-lock.json
